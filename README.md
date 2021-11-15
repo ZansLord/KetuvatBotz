@@ -44,7 +44,7 @@
 # Installation
 ## 📝 Cloning this repo
 ```cmd
-> git clone https://github.com/ZansLord/ZansBotzV2.git
+> git clone https://github.com/ZansLord/KetuvatBotz.git
 > cd ZansBotzV2
 ```
 
@@ -55,7 +55,7 @@ Edit the required value in `config.json`.
   "ownerNumber": [ "62852*********@s.whatsapp.net" ],
   "limitCount": 20,
   "gamewaktu": 60,
-  "botName": "ZansBot",
+  "botName": "KetuvatBot",
   "pathImg": "./media/yo.jpg",
   "lolkey": "APIKEY",
   "zekskey": "chika-key",
